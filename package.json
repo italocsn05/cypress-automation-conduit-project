@@ -1,0 +1,23 @@
+{
+  "name": "cypress-automation-conduit-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italocsn05/cypress-automation-conduit-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/italocsn05/cypress-automation-conduit-project/issues"
+  },
+  "homepage": "https://github.com/italocsn05/cypress-automation-conduit-project#readme",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  }
+}
